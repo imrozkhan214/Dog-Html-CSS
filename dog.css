@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 200px;
+    background-color: #DAC8BE;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+
+    
+}
+
+.icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+   
+}
+
+.dogimage {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin: 25px;
+    
+}
+
+.dogname {
+    margin: 0;
+}
